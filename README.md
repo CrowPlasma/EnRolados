@@ -94,6 +94,13 @@ EnRolados is a comprehensive **Role and Shift Management** system designed speci
 * **Internationalization (i18n):** Native interface available in both English and Spanish.
 * **Backup Management:** Ability to download and restore full database backups on the fly.
 
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/d19fcbd6-ce59-48c2-8968-641c1b9bc330" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/90da0e92-d318-40f6-b95b-b9e5d5d36535" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/d1761d43-9e21-4eb6-b2d2-3541f009ab34" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/52870c1e-18bf-4359-83fe-3443df825edc" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/81b39e71-c6cc-49a9-803a-f5b0ade9caf6" />
+
+
 ### 🛠️ Tech Stack
 
 * **Frontend & Backend:** Next.js (App Router, React)
