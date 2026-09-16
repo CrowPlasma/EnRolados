@@ -18,6 +18,14 @@ EnRolados es un sistema integral de **Gestión de Roles y Turnos** diseñado esp
 * **Internacionalización (i18n):** Interfaz nativa disponible en Español e Inglés.
 * **Gestión de Respaldos (Backups):** Capacidad para descargar y restaurar copias de seguridad de la base de datos completa.
 
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/2ec202ce-930c-4cbd-9b49-5ffeaeffffee" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/995dc1bc-ef3a-4476-b7c5-2de68c64bd69" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/0e70d01b-0e41-4ebf-9ad6-a943f1f8f800" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/a832d662-5f66-4623-ae10-ef0bac846093" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/d071ac51-5df6-4832-befa-c9354056f61d" />
+
+
+
 ### 🛠️ Stack Tecnológico
 
 * **Frontend & Backend:** Next.js (App Router, React)
