@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  enrolados-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: enrolados_app
+    ports:
+      - "3050:3000"
+    restart: unless-stopped
+    volumes:
+      # Montar la base de datos para que los datos persistan
+      - ./dev.db:/app/prisma/dev.db
